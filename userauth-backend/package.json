@@ -1,0 +1,19 @@
+{
+  "name": "userauth-backend",
+  "version": "1.0.0",
+  "description": "Boiler plate backend for user registration and login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhilSimha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.15",
+    "validator": "^10.11.0"
+  }
+}
