@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 9540,
+  "expoServerNgrokUrl": "https://2r-sgk.anonymous.userauthentication.exp.direct",
+  "packagerNgrokUrl": "https://packager.2r-sgk.anonymous.userauthentication.exp.direct",
+  "ngrokPid": 9600,
+  "webpackServerPort": null
+}
